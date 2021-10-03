@@ -1,0 +1,29 @@
+{
+  "name": "proyecto_final",
+  "version": "1.0.0",
+  "description": "Proyecto Ucreativa Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laura27-89/Tec_modern_auto.git"
+  },
+  "keywords": [
+    "ucreativa",
+    "cypress"
+  ],
+  "author": "Laura Ulate laura.ulate.alfaro@ucreativa.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laura27-89/Tec_modern_auto/issues"
+  },
+  "homepage": "https://github.com/Laura27-89/Tec_modern_auto#readme",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  },
+  "devDependencies": {
+    "axios": "^0.22.0"
+  }
+}
